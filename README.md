@@ -2,6 +2,7 @@
 
 ## DETALIED DOCUMETATION
 For a very detailed documentation, with a full problem description and testing process, click the link.
+
 [Detailed documantation in polish](https://github.com/iga-ops/Tabu-Search-for-transport-optimization/blob/main/Description/Documentation_PL.pdf)
 
 ## 1. Problem description
