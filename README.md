@@ -2,7 +2,7 @@
 
 ## DETALIED DOCUMETATION
 For a very detailed documentation, with a full problem description and testing process, click the link.
-![Detailed documantation in polish](https://github.com/iga-ops/Tabu-Search-for-transport-optimization/blob/main/Description/Documentation_PL.pdf)
+[Detailed documantation in polish](https://github.com/iga-ops/Tabu-Search-for-transport-optimization/blob/main/Description/Documentation_PL.pdf)
 
 ## 1. Problem description
 The considered optimization problem is from the category of transport theory - a company delivering food in a single city. In the created problem, the solution is to find the optimal allocation of supplies to suppliers and the order of their implementation, to maximize profits. 
