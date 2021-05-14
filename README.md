@@ -18,5 +18,7 @@ The route is then modified randomly, taking into account the maximization of the
 
 ## 3. Algorithm steps
 A simplified block diagram of the Tabu search algorithm for the adopted problem:
+
+
 <img width="261" alt="przerobiony_graf_readme" src="https://user-images.githubusercontent.com/75940256/118335582-4237f600-b510-11eb-8482-5332524f8039.png">
 
